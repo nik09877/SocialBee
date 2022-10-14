@@ -1,27 +1,30 @@
-# 🔥🔥 Social Bee
+# 🔥🔥🔥 Social Bee 🔥🔥🔥
+
 Social Bee is a fully functional social media app with multiple features built with Html, Css, Javascript, Node.js, Express.js and MongoDB.
 
 Star⭐ the repo if you like what you see😉.
 
 ## ✨ Requirements
-* Node.js 
-* MongoDB or Mongo Atlas
-* NPM
+
+- Node.js
+- MongoDB or Mongo Atlas
+- NPM
 
 ## Features
- * register and login users. 
- * create posts
- * search posts
- * delete posts
- * like posts 
- * retweet posts
- * search other users by username
- * follow / unfollow users
- * profile page.
- * notifications page.
- * chat page
- * upload profile / cover photo
- * chat with other users
+
+- register and login users.
+- create posts
+- search posts
+- delete posts
+- like posts
+- retweet posts
+- search other users by username
+- follow / unfollow users
+- profile page.
+- notifications page.
+- chat page
+- upload profile / cover photo
+- chat with other users
 
 <!--- ## Screenshots
 <p>
@@ -33,13 +36,13 @@ Star⭐ the repo if you like what you see😉.
 <img src="ss/w3.jpg" width="400"> <img src="ss/w6.jpg" width="400">
 </p> -->
 
-
 **How to run this application**
-* Clone this repository
-* Make sure MongoDB is running on your system or online.
-* include MongoDB database link in .env file.
-* Open command line in the cloned folder,
-    * To install dependencies run  `npm install` in main folder.
-    * To run the application type command `npm start` in main folder.
-* Open  [localhost:3003](http://localhost:3003/)  in the browser.
- **And application will be up and running.**
+
+- Clone this repository
+- Make sure MongoDB is running on your system or online.
+- include MongoDB database link in .env file.
+- Open command line in the cloned folder,
+  - To install dependencies run `npm install` in main folder.
+  - To run the application type command `npm start` in main folder.
+- Open [localhost:3003](http://localhost:3003/) in the browser.
+  **And application will be up and running.**
