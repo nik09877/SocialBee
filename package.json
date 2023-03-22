@@ -1,5 +1,5 @@
 {
-  "name": "twitterclone",
+  "name": "social-bee",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Reece Kenney",
+  "author": "Nikhil Kumar Mishra",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
