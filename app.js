@@ -5,7 +5,7 @@ const middleware = require('./middleware');
 const path = require('path');
 const bodyParser = require('body-parser');
 require('./database');
-const session = require('express-session');
+const session = require('cookie-session');
 
 const server = app.listen(port, () =>
   console.log('Server listening on port ' + port)
